@@ -2,18 +2,29 @@
     background-color: beige;
 }
 
-div {background-color: green;}
-
 h1 {
     background-color: green;
     color: beige;
     text-align: center;
-    font-family: Georgia, serif;
-    
-    
+    font-family: Georgia, serif;        
 }
 
-.recipes-list  {
-    color: orange;
+i,h2, h3 {
+    color: orangered;
+    background-color: peachpuff;
+}
+
+h4 {
+    color: green;
+}
+
+ol,li, p  {
+    color: rgb(66, 66, 66);
     font-family: Verdana, sans-serif;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
