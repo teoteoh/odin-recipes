@@ -2,11 +2,20 @@
     background-color: beige;
 }
 
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
 h1 {
     background-color: green;
     color: beige;
-    text-align: center;
-    font-family: Georgia, serif;        
+    text-align: left;
+    font-family: Georgia, serif; 
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 10px;
+        
 }
 
 i,h2, h3 {
@@ -26,4 +35,16 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+
+.recipelist li{
+    display: inline-block;
+    margin: 10px 5px 10px 5px;
+    
+    
+}
+
+.recipelist ul {
+    text-align: center;
 }
