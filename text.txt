@@ -1,0 +1,111 @@
+mouse 
+
+But what <i>is</i> the Passion Fruit Mousse?</h2>
+
+        <p>Passion fruit mousse is a delicious dessert sure to win your guests over! When the cremosity of the traditional mousse and the sheer flavourfulness of the passion fruit join their strenghts together, few are able to resist their call. The result is a fresh, unique dessert that will stay in the minds of those who eat it for eternity, an unforgettable dessert that will leave your victims always craving for more.
+
+ <h3>What you will need:</h3>  
+        
+        <h4>for the Mousse</h4>
+        
+        <ul>
+            <li>1 can of condensed milk</li>
+            <li>3 big passion fruits</li>
+            <li>1 can of milk cream</li>
+            
+        </ul>
+
+        <h4>for the Topping</h4>
+
+        <ul>
+            <li>pulp of 1 passion fruit</li>
+            <li>1/2 teacup of sugar</li>
+            <li>1/2 teacup of water</li>
+        </ul>
+
+        <h3>How you will make it:</h3>
+
+        <h4>the Mousse</h4>
+
+        <ol>
+            <li>Cut all the passion fruits in half and transfer the pulps to a blender;</li>
+            <li>Blend for 2 minutes;</li>
+            <li>Transfer the juice to a colander and discard the seeds;</li>
+            <li>Mix the juice, the condensed milk and the milk cream and blend for 3 minutes in high speed;</li>
+            <li>Pour it on a bowl or individual servings and leave it on the freezer for at least 4 hours.</li>
+        </ol>
+
+        <h4>the Topping</h4>
+
+        <ol>
+            <li>Pour all ingredients for the topping in a pan</li>
+            <li>Mix it all and take to medium fire</li>
+            <li>Mix nonstop for 5 minutes or until it becomes smooth</li>
+            <li>Wait for it to get cold and pour over the mousse</li>
+            <li>Return them to the fridge and serve after it's cold</li>
+        </ol>
+
+
+capeta
+
+<h2>But what <i>is</i> the Devil's Drink?</h2>
+
+        <p>The Devil's Drink, also known as Capeta in portuguese, is a delicious vodka and condensed milk based drink from Brazil. Traditionally flavoured with cinnamon, its popularity has spread across brazilian soil and many variations have already been created! If all goes according to our plans, soon the Capeta will conquer the world.</p>
+
+        <p>And no nation shall be left standing.</p>
+        
+        <hr>
+
+        <h3>What you will need:</h3>     
+        
+        <ul>
+            <li>Half a glass of vodka</li>
+            <li>Half a small glass of consended milk</li>
+            <li>Two spoons of guaraná powder</li>
+            <li>Two spoons of cinnamon powder</li>
+            <li>Crushed ice</li>
+            <li>A blender</li>
+        </ul>
+
+        <h3>How you will make it:</h3>
+
+        <ol>
+            <li>Pour it all on the blender</li>
+            <li>Blend</li>
+            <li>Pour on cups</li>
+            <li>Drink it</li>
+        </ol>
+
+
+shrimp
+
+<h2>But what <i>is</i> Milanese Shrimp?</h2>
+
+        <p>Milanese shrimp. What else is there to say? A favourite of my friend M's, they are the perfect goodness of the shrimp, which even plain is perfectly palatable, with crispy,  egg and flour based fried covering. An absolute must-have in anyone's culinary bucket list.
+             </p>
+
+        <h3>What you will need:</h3>     
+        
+        <ul>
+            <li>250g of medium sized shrimps without skin</li>
+            <li>1/2 a teacup of white wine</li>
+            <li>2 spoons of olive oil</li>
+            <li>2 garlic cloves</li>
+            <li>salt ice</li>
+            <li>1/2 teacup of white flour</li>
+            <li>1 teacup of breadcrumbs</li>
+            <li>2 beaten eggs</li>
+            <li>frying oil</li>
+            <li>parsley</li>
+        </ul>
+
+        <h3>How you will make it:</h3>
+
+        <ol>
+            <li>season the shrimp with wine, olive oil, garlic and salt.</li>
+            <li>pour the flour in a deep dish, the breadcrumbs in another, and the eggs in another one</li>
+            <li>bread the shrimps, passing them through the flour, and eggs and then the breadcrumbs</li>
+            <li>heat the frying oil on a frying pan and fry the shrimp</li>
+            <li>dry them on papel towels to remove the oil excess</li>
+            <li>decorate with parsley</li>
+            <li>eat them all</li>

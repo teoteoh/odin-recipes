@@ -1,50 +1,68 @@
 * {
-    background-color: beige;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: antiquewhite;
 }
 
-body {
-    margin: 0px;
-    padding: 0px;
-}
-
-h1 {
-    background-color: green;
-    color: beige;
-    text-align: left;
-    font-family: Georgia, serif; 
-    padding-top: 40px;
-    padding-bottom: 40px;
-    padding-left: 10px;
-        
-}
-
-i,h2, h3 {
-    color: orangered;
-}
-
-h4 {
-    color: green;
-}
-
-ol,li, p  {
-    color: rgb(66, 66, 66);
-    font-family: Verdana, sans-serif;
-}
-
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-
-.recipelist li{
-    display: inline-block;
-    margin: 10px 5px 10px 5px;
-    
-    
-}
-
-.recipelist ul {
+.header{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 170px;
+    background-color: brown;
+    color: antiquewhite;
+    font-size:xx-large;
+    font-family:'Courier New', Courier, monospace;
     text-align: center;
+
+}
+
+.header h1 {
+    background-color: inherit;
+}
+
+.menu-container {
+    display: flex;
+    justify-content: center;
+    background-color: orange;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: inherit;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+
+.menu-item {
+    text-align: center;
+    background-color: inherit;
+    margin: 20px;
+}
+
+.menu-item img {
+    width: 300px;
+    height: 300px;
+    border-radius: 25%;
+    border: outset 7px whitesmoke;
+
+}
+
+.menu-item p {
+    margin-bottom: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    color: whitesmoke;
+
+}
+a, p {
+    background-color: inherit;
+}
+
+.menu-item img:hover{
+    border-style: inset;
 }
